@@ -1,0 +1,23 @@
+.register-container{
+    .errorText{
+        color: red;
+    }
+    .success-from{
+        color: green;
+    }
+    .fail-form{
+        color: red;
+    }
+}
+
+.login-container{
+    .errorText{
+        color: red;
+    }
+    .success-from{
+        color: green;
+    }
+    .fail-form{
+        color: red;
+    }
+}
